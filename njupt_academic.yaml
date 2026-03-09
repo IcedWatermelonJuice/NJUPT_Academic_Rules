@@ -1,0 +1,36 @@
+# For NJUPT and academic websites within library
+# REPO: https://github.com/IcedWatermelonJuice/NJUPT_Academic_Rules
+# Created: 2026.3.9
+# Last Updated: 2026.3.10
+# Total: 29
+
+payload:
+  - DOMAIN-KEYWORD,njupt
+  - DOMAIN-SUFFIX,overleaf.com
+  - DOMAIN-KEYWORD,ieeexplore
+  - DOMAIN-SUFFIX,acm.org
+  - DOMAIN-SUFFIX,acs.org
+  - DOMAIN-SUFFIX,aps.org
+  - DOMAIN-SUFFIX,calis.edu.cn
+  - DOMAIN-SUFFIX,cashl.edu.cn
+  - DOMAIN-SUFFIX,ebsco.com
+  - DOMAIN-SUFFIX,engineeringvillage.com
+  - DOMAIN-SUFFIX,sciencedirect.com
+  - DOMAIN-SUFFIX,emeraldinsight.com
+  - DOMAIN-SUFFIX,clarivate.com
+  - DOMAIN-SUFFIX,ieee.org
+  - DOMAIN-SUFFIX,nature.com
+  - DOMAIN-SUFFIX,nstl.gov.cn
+  - DOMAIN-SUFFIX,opticsinfobase.org
+  - DOMAIN-SUFFIX,pqdtcn.com
+  - DOMAIN-SUFFIX,sciencemag.org
+  - DOMAIN-SUFFIX,specialsci.cn
+  - DOMAIN-SUFFIX,springer.com
+  - DOMAIN-SUFFIX,webofknowledge.com
+  - DOMAIN-SUFFIX,wiley.com
+  - DOMAIN-SUFFIX,cambridge.org
+  - DOMAIN-SUFFIX,blyun.com
+  - DOMAIN-SUFFIX,cadal.edu.cn
+  - DOMAIN-SUFFIX,resourcemap.com.cn
+  - DOMAIN-SUFFIX,ams.org
+  - DOMAIN-SUFFIX,elsevier.com
